@@ -1,0 +1,17 @@
+.card {
+  width: 400px;
+  background-color: #ccdad1;
+  padding: 15px;
+  text-align: center;
+  border: 2px;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 34px 35px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: color 0.5s, transform 0.2s, background-color 0.2s;
+}
+
+.card:hover {
+  background-color: #b4c4bd;
+  box-shadow: none;
+}

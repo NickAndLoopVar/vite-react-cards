@@ -1,0 +1,13 @@
+.lenvista {
+  max-width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.lenvista h3 {
+  text-align: justify;
+}
+
+.lenvista img {
+  max-width: 50%;
+}
