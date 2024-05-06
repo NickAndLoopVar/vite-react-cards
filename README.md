@@ -82,4 +82,4 @@ _Este proyecto es una aplicación web desarrollada con React y Vite que muestra 
 
 - [Github @NickAndLoopVar](https://github.com/NickAndLoopVar)
 
-- [Repositorio](https://github.com/NickAndLoopVar/backend-con-NodeJS-y-Express.js-MySQL)
+- [Repositorio](https://github.com/NickAndLoopVar/vite-react-cards)
