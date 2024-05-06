@@ -6,7 +6,7 @@ _Este proyecto es una aplicación web desarrollada con React y Vite que muestra 
 
 ### Se configura el package.json agregando las dependencias:
 
-<img src="https://i.ibb.co/0GqpKkp/json.png" alt="Package.json" width="50%">
+<img src="https://i.ibb.co/0GqpKkp/json.png" alt="Package.json" width="70%">
 
 ### Se crean 3 carpetas en la carpeta src:
 
@@ -18,7 +18,7 @@ _Este proyecto es una aplicación web desarrollada con React y Vite que muestra 
 
 ### En la carpeta data se crea el esquema de informacion que se mostrara en las cards, esto en el archivo equipos.js:
 
-<img src="https://i.ibb.co/PNJq04h/equipos.png" alt="equipos.js" width="70%">
+<img src="https://i.ibb.co/PNJq04h/equipos.png" alt="equipos.js" width="90%">
 
 ### En la carpeta components se crea el componente card con su respectiva hoja de estilos.
 
@@ -38,17 +38,17 @@ _Este proyecto es una aplicación web desarrollada con React y Vite que muestra 
 
 #### ProyectoVistas.css
 
-<img src="https://i.ibb.co/0BvqW8M/vistascss.png" alt="Proyectovistas.css" width="70%">
+<img src="https://i.ibb.co/0BvqW8M/vistascss.png" alt="Proyectovistas.css" width="50%">
 
 ### Se importan los archivos Cards y equipos al App.jsx y se crea el metodo map para recorrer el archivo equipos.js
 
 #### App.jsx
 
-<img src="https://i.ibb.co/KqPL5TR/app.png" alt="App.jsx" width="70%">
+<img src="https://i.ibb.co/KqPL5TR/app.png" alt="App.jsx" width="75%">
 
 #### App.css
 
-<img src="https://i.ibb.co/4JdpnB6/appcss.png" alt="app.css" width="70%">
+<img src="https://i.ibb.co/4JdpnB6/appcss.png" alt="app.css" width="50%">
 
 ### En el archivo main.jsx se establecen las rutas a las que sera dirigido al hacer click en el titulo de la card
 
